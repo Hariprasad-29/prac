@@ -1,3 +1,2 @@
 hi
-
-resolved issue
+issue number 2
